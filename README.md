@@ -1,2 +1,2 @@
-# python_basics
+# Python Basics
 Python Basics Repo
