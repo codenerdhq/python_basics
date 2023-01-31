@@ -1,3 +1,5 @@
+# Author: CodeNerdHQ
+
 # Range until 3, not included
 for i in range(3):
     print(i)

@@ -1,3 +1,5 @@
+# Author: CodeNerdHQ
+
 # List Declaration in Python
 numbers = [10, 5, 12]
 
