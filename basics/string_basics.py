@@ -34,3 +34,38 @@ print("Hello\n", end="")
 # Changing the ending char
 print("Hello", end=" - ")
 print("World")
+
+# Joining a list in a string
+print(" ".join(["Hello", "World"]))
+
+# Splitting a string
+print("Hello World".split())
+
+# Split with another sequence
+print("Hello-World-Hello".split("-"))
+
+# Convert to float
+x = "123.45"
+print(float(x))
+
+# This returns ValueError!
+# print(int(x))
+
+# Cnvert int
+y = "10"
+print(int(y))
+
+# ValueError!
+# print(int("Hello!"))
+
+# Replacement chars
+x = "wall"
+x = x.replace("w", "b")
+print(x)
+
+# Case
+print("hello".upper())
+
+print("hello".capitalize())
+
+print("HELLO".lower())
