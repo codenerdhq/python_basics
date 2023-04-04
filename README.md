@@ -87,6 +87,5 @@ Python Release history and major features:
     * New string methods: str.removeprefix() and str.removesuffix() have been added to make string manipulation easier
     * Improved error messages for type annotations: error messages for incorrect type annotations are now more detailed and helpful
     * New time functions: several new time-related functions have been added, including a new time zone database and a new clock_gettime() function for high-resolution timing
-
-- Python 3.11 (2023)
+- Python 3.12 (2023)
 ```
